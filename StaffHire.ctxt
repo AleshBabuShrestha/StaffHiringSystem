@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=StaffHire
+comment0.text=\r\n\ The\ StaffHire\ class\ has\ three\ attributes,\ which\ correspond\ to\ the\ Vacancy\r\n\ \ \ number,\ Designation\ and\ Job\ Type\r\n\r\n\ @author\ Alesh\ Babu\ Shrestha\r\n\ @version\ 0.1\r\n
+comment1.params=vacancyNumber\ designation\ jobType
+comment1.target=StaffHire(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getDesignation()
+comment3.params=designation
+comment3.target=void\ setDesignation(java.lang.String)
+comment4.params=
+comment4.target=int\ getVacancyNumber()
+comment5.params=vacancyNumber
+comment5.target=void\ setVacancyNumber(int)
+comment6.params=
+comment6.target=java.lang.String\ getJobType()
+comment7.params=jobType
+comment7.target=void\ setJobType(java.lang.String)
+comment8.params=
+comment8.target=void\ displayDetails()
+numComments=9
